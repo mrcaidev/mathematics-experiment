@@ -3,5 +3,5 @@ function xp = basic_1()
 end
 
 function y = f(x)
-    y = 2*x^3 - 3*x^2 + 4*x - 5;
+    y = 2 * x^3 - 3 * x^2 + 4 * x - 5;
 end
