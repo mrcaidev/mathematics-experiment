@@ -4,13 +4,18 @@
 >
 > 个人主页：[mrcai.space](https://mrcai.space)
 >
-> Github 主页：[MrCaiDev](https://github.com/MrCaiDev)
+> GitHub 主页：[MrCaiDev](https://github.com/MrCaiDev)
 >
-> 个人邮箱：1014305148@qq.com
+> 个人邮箱：[1014305148@qq.com](mailto:1014305148@qq.com)
 >
-> 工作邮箱（不常用）：yuwangcai@std.uestc.edu.cn
+> 工作邮箱（不常用）：[yuwangcai@std.uestc.edu.cn](mailto:yuwangcai@std.uestc.edu.cn)
 
-电子科技大学《数学实验》源码。
+## 项目介绍
+
+电子科技大学 2020 级《数学实验》源码。包括：
+
+- 5 次实验
+- 1 次项目
 
 ## 免责声明
 
